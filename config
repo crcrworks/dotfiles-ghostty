@@ -1,0 +1,18 @@
+theme = everforest-dark
+cursor-style = underline 
+
+shell-integration = fish
+macos-titlebar-style = hidden
+gtk-tabs-location = bottom
+
+font-size=18
+
+window-vsync =false
+mouse-hide-while-typing=true
+
+keybind = cmd+t=text:\x14
+keybind = ctrl+tab=text:\x1d
+keybind = ctrl+shift+tab=text:\x1f
+keybind = cmd+w=text:\x17
+
+

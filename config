@@ -15,4 +15,5 @@ keybind = ctrl+tab=text:\x1d
 keybind = ctrl+shift+tab=text:\x1f
 keybind = cmd+w=text:\x17
 
-
+window-padding-x = 0
+window-padding-y = 0

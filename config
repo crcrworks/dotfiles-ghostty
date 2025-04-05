@@ -7,8 +7,12 @@ gtk-tabs-location = bottom
 
 font-size=18
 
-window-vsync =false
-mouse-hide-while-typing=true
+font-family = JetBrains Mono 
+font-family = UDEV Gothic 35JPDOC
+font-feature = "-dlig"
+
+window-vsync = false
+mouse-hide-while-typing = true
 
 keybind = cmd+t=text:\x14
 keybind = ctrl+tab=text:\x1d
